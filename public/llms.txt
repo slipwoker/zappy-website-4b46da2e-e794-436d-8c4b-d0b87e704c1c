@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-4b46da2e.zappy5.app
+https://example.com
 מחפש ליצור סרטון הזמנה לחתונה שיפעיל את כולם? קבל עריכת וידאו ואנימציה ברמה הגבוהה ביותר עם אסתטיקת גיימינג ניאון סגול שמיועדת למקסם מעורבות. הפוך תוכן לויראלי עוד היום!
 
 ### אודות
-https://-4b46da2e.zappy5.app/about
+https://example.com/about
 מאחורי כל סרטון ויראלי עומד עורך מקצועי שמבין בדיוק איך לספר סיפור. גלו את הסיפור שלי, ההתמחות באפקטים מתקדמים, גרפיקות תנועה ותוכן גיימינג, ואיך אני מביא את החזון שלכם למסך.
 
 ### פרויקטים
-https://-4b46da2e.zappy5.app/projects
+https://example.com/projects
 צפו בתיק העבודות שלי: סרטוני יוטיוב, שורטס ורילס עם אנימציות מושקעות, אפקטי ניאון ועריכת מקצב סוחפת. דוגמאות אמיתיות שמראות איך תוכן איכותי מגדיל צפיות ומשמר קהל. בואו לקבל השראה לפרויקט הבא שלכם.
 
 ### צור קשר
-https://-4b46da2e.zappy5.app/contact
+https://example.com/contact
 מוכנים להפוך את הרעיונות שלכם לסרטונים סוחפים? צרו קשר עוד היום להפקת וידאו ואנימציה מותאמת אישית עם אסתטיקה ייחודית. בואו נבנה יחד תוכן שממקסם שימור צופים ומפוצץ את הרשת.
 
 ### תודה על פנייתך
-https://-4b46da2e.zappy5.app/thank-you
+https://example.com/thank-you
 תיק עריכה שלי - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-4b46da2e.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-4b46da2e.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-4b46da2e.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-4b46da2e.zappy5.app/contact
-- Endpoint: https://-4b46da2e.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Video Editing & Animation Design
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-4b46da2e.zappy5.app/sitemap.xml
-- Robots: https://-4b46da2e.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-4b46da2e.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
